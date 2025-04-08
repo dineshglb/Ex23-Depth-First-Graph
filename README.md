@@ -15,7 +15,7 @@ To compose the code for the function createNode to traverse the graph below in t
 ## Program:
 ```
 /*
-Program to find and display the priority of the operator in the given Postfix expression
+Program to traverse the graph below in the depth first fashion
 Developed by: 
 RegisterNumber:  
 */
